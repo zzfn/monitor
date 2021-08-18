@@ -10,7 +10,7 @@ class Core {
      * @returns {Promise<string>}
      */
     async getVisitorId() {
-        console.log(2)
+        console.log(21)
         const fp = await this.fpPromise
         const result = await fp.get()
         const visitorId = result.visitorId
