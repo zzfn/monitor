@@ -1,7 +1,9 @@
-'use strict';
+var a=1
+function test(a) {
+    console.log(a)
 
-module.exports = tracing;
-
-function tracing() {
-    // TODO
+    var a=3
+    console.log(a)
 }
+
+console.log(test(2))

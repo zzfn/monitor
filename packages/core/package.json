@@ -28,5 +28,8 @@
   },
   "bugs": {
     "url": "https://github.com/zzfn/monitor/issues"
+  },
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs": "^3.3.0"
   }
 }
