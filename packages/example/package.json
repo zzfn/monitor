@@ -1,0 +1,29 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "description": "演示包",
+  "keywords": [
+    "example"
+  ],
+  "author": "cc <cc@zzfzzf.com>",
+  "homepage": "https://github.com/zzfn/monitor#readme",
+  "license": "MIT",
+  "main": "lib/example.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzfn/monitor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/zzfn/monitor/issues"
+  }
+}
