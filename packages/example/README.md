@@ -1,11 +1,11 @@
-# `example`
+# `index`
 
 > TODO: description
 
 ## Usage
 
 ```
-const example = require('example');
+const index = require('index');
 
 // TODO: DEMONSTRATE API
 ```
